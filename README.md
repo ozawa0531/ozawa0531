@@ -23,6 +23,6 @@ In private, I will be working on projects that are currently in progress.
 
 I have not been coding for a long time and am in rehabilitation. The current environment is wonderful, but also complicated, considering the days when magnetic tapes were damaged and files were unreadable, or when I stepped on a code and it crashed.
 
-Thank you in advance for your help.git config 
+Thank you in advance for your help.
 
 
